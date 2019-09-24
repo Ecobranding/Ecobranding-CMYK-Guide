@@ -22,9 +22,8 @@ We have created Ecobranding CMYK Guide, a new color language tool to define only
 
 Each color has been standardized according to the same process: 
 
-```ECOBRANDING
-ECOBRANDING 50-4
-```
+- ECOBRANDING 50-4
+
 ```ECOBRANDING
 ECOBRANDING(name of the colour chart) 50(ink rate) -4(number of the colour in its ink rate range)
 ```
