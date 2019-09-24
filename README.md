@@ -34,7 +34,6 @@ This allows the user to easily see the ink rate used by each colour he has chose
 
 ## Available Colors
 
-![available colors](https://yeun.github.io/open-color/asset/images/open-color.svg)
 
 
 The Ecobranding CMYK Guide is free and open source and must not be commercialized.
