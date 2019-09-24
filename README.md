@@ -31,10 +31,10 @@ ECOBRANDING(name of the colour chart) 50(ink rate) -4(number of the colour in it
 This allows the user to easily see the ink rate used by each colour he has chosen.
 
 
-## Available Colors
+## Ecobranding CMYK Colors
 
 
-![available colors](https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingCMYKguide.svg)
+![Ecobranding CMYK colors](https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingCMYKguide.svg)
 
 The Ecobranding CMYK Guide is free and open source and must not be commercialized.
 It comes in the form of an Ecobranding.ase color chart file that you can easily install on your computer (e.g. Adobe Illustrator/Presets/Color Swatches) and find it in the color library.
