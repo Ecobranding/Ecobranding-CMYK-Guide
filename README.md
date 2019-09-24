@@ -39,7 +39,7 @@ This allows the user to easily see the ink rate used by each colour he has chose
 The Ecobranding CMYK Guide is free and open source and must not be commercialized.
 It comes in the form of an Ecobranding.ase color chart file that you can easily install on your computer (e.g. Adobe Illustrator/Presets/Color Swatches) and find it in the color library.
 
-https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingColorSwatche.png)
+https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingColorSwatche.png
 
 It is also accompanied by a CMYK PDF poster ready to be printed in Certified proof.
 
