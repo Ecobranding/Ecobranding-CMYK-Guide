@@ -1,4 +1,4 @@
-
+![Ecobranding Hero](https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingColorHeader.jpg)
 
 # Ecobranding CMYK Guide
 
