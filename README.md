@@ -55,7 +55,7 @@ Check out the list below.
 
 ### Document
 
-- `README.md`
+- https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingCMYKguide.pdf
 - `docs/documents.html`
 
 ### Introduction
