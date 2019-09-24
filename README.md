@@ -1,4 +1,4 @@
-![Ecobranding Hero](https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingColorHero.jpg)
+
 
 # Ecobranding CMYK Guide
 
@@ -24,7 +24,7 @@ We have created Ecobranding CMYK Guide, a new color language tool to define only
 
 ### Ecobranding CMYK Colors
 
-![Ecobranding CMYK colors](https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingCMYKguide.svg)
+![Ecobranding CMYK colors](https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingCMYKguide.jpg)
 
 Each color has been standardized according to the same process: 
 
@@ -56,7 +56,7 @@ Check out the list below.
 ### Document
 
 - https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingCMYKguide.pdf
-- `docs/documents.html`
+- PDF Poster: https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingCMYKguide.pdf
 
 ### Introduction
 
