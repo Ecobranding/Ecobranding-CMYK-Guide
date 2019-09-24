@@ -1,3 +1,5 @@
+![Ecobranding Hero](https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingColorHero.jpg)
+
 # Ecobranding CMYK Guide
 
 An eco-designed color guide and open-source to use less ink, less paper, less energy.
@@ -20,6 +22,10 @@ Inkjet printers go back and forth with a print head that will project the ink on
 ## How
 We have created Ecobranding CMYK Guide, a new color language tool to define only colours that do not exceed an inking rate of 100%. Our first version has 167 "standards" colors, but we can define many more and the Ecobranding CMYK Guide has been designed to evolve. 
 
+### Ecobranding CMYK Colors
+
+![Ecobranding CMYK colors](https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingCMYKguide.svg)
+
 Each color has been standardized according to the same process: 
 
 - ECOBRANDING 50-4
@@ -30,30 +36,16 @@ ECOBRANDING(name of the colour chart) 50(ink rate) -4(number of the colour in it
 
 This allows the user to easily see the ink rate used by each colour he has chosen.
 
-
-## Ecobranding CMYK Colors
-
-
-![Ecobranding CMYK colors](https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingCMYKguide.svg)
-
 The Ecobranding CMYK Guide is free and open source and must not be commercialized.
 It comes in the form of an Ecobranding.ase color chart file that you can easily install on your computer (e.g. Adobe Illustrator/Presets/Color Swatches) and find it in the color library.
 
-![Digital Color Swatch](https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingColorSwatch.png)
+![Digital Color Swatch](https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingColorSwatch.jpg)
 
 It is also accompanied by a CMYK PDF poster ready to be printed in Certified proof.
 
 ## Contribution
 
 Check out the list below.
-
-### Color Value
-
-- `open-color.json`
-   - Change and `$ npm run compile-templates`
-- `docs/asset/download/open-color_*.*.*.aco`
-- `docs/asset/download/open-color_*.*.*.clr`
-- Adobe library (admin rights)
 
 ### Version Number
 
