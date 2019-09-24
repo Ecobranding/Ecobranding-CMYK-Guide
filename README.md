@@ -43,20 +43,18 @@ It comes in the form of an Ecobranding.ase color chart file that you can easily 
 
 It is also accompanied by a CMYK PDF poster ready to be printed in Certified proof.
 
-## Contribution
+![PDF Poster](https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingCMYKposter.jpg)
 
-Check out the list below.
-
-### Version Number
-
-- `package.json`
-- `docs/asset/download/open-color_*.*.*.aco`
-- Adobe library (admin rights)
 
 ### Document
 
-- https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingCMYKguide.pdf
-- PDF Poster: https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingCMYKguide.pdf
+- Digital Color Swatch: https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/Ecobranding.ase
+- Print PDF Poster: https://github.com/Ecobranding/Ecobranding-CMYK-Guide-/blob/master/EcobrandingCMYKguide.pdf
+
+### Version Number
+
+- Ecobranding CMYK Guide 1.1 (2019)
+- Designed By The Ecobranding Foundation
 
 ### Introduction
 
