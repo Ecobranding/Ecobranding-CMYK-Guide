@@ -57,3 +57,4 @@ It is also accompanied by a CMYK PDF poster ready to be printed in Certified pro
 ### Introduction
 
 - `README.md`
+- `LICENSE.md`
