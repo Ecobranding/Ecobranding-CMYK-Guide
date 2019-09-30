@@ -9,13 +9,13 @@ An eco-designed color guide and an open-source intended to use less ink, less pa
 The Ecobranding CMYK Guide is an open-source color tool that features 167 CMYK four color process (Cyan, Magenta, Yellow, Key (Black)) that have been eco-designed along with their corresponding values. The colours used in this guide limit the ink consumption used for four color printing.
 
 ## Why
-### In printing, not all colours use the same amount of ink. 
+### In printing, not all colors use the same amount of ink. 
 Printing red colors (0% Cyan + 100% Magenta + 100% Yellow + 100% Yellow + 0% Key = 200%) uses twice the amount of ink as printing black colors (0% Cyan + 0% Magenta + 0% Yellow + 100% Key = 100%).
 
-### In printing not all colours use the same type of paper. 
+### In printing not all colors use the same type of paper. 
 In printing, the maximum total ink coverage is 300%; for recycled paper it can be 270%. If you print a strong green like “Forest Green” (100% Cyan + 50% Magenta + 100% Yellow + 50% Key = 300%) you must use thick paper to avoid drying and staining problems, conversely if you print using a lighter green such as “Light Green” (40% Cyan + 0% Magenta + 40% Yellow + 7% Key = 87%) you can reduce your paper consumption by using thinner paper.
 
-### In printing, not all colours use the same amount of energy.
+### In printing, not all colors use the same amount of energy.
 Inkjet printers use print heads that go back and forth in order to project ink droplets onto paper. All these trips consume energy. We have found (disclaimer: without official studies) that for a color with a high total ink coverage the print head makes more trips than for a color with a low total ink coverage. The color with a higher total ink coverage will therefore consume more energy.
 
 ## How
